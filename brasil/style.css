@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: 100%;
+}
+
+header img {
+    width: 100% ;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+    font-size: 180%;
+}
+
+p{
+    margin: 0% 5%;
+   text-align: justify;
+}

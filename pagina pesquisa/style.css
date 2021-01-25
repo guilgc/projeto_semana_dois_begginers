@@ -1,0 +1,85 @@
+* {
+    margin: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 1% 2%;
+border-bottom-style: solid;
+border-color: cadetblue;
+padding: 0% 0% 2% 0%;
+}
+
+#lupa {
+    border-radius: 10%;
+}
+
+#rosto {
+    border-radius: 50%;
+}
+
+#icon1 {
+    width: 0%;
+}
+
+input {
+    width: 60%;
+}
+
+#all {
+    display: flex;
+}
+
+#caixa {
+    justify-content: space-around;
+    margin: 2% 2%;
+    width: 50%;
+}
+
+#video {
+    margin: 1% 1% 1% 0%;
+    width: 100%;
+}
+
+.pokemon {
+   border: black;
+   border-style: solid;
+   margin: 4% 2%;
+   padding: 3%;
+   text-align: justify;
+}
+
+h5 {
+    margin: 1% 1%;
+}
+
+h2 {
+    margin: 2% 0%;
+}
+
+#lateral {
+    border: black;
+    border-style: solid;
+    margin: 4% 2%;
+    padding: 3%;
+    text-align: justify;
+width: 50%;
+}
+
+.imagem {
+    margin-bottom: 2%;
+    padding: 2%;
+}
+
+#imagens1 {
+    text-align-last: center;
+}
+
+#imagens2 {
+    text-align-last: center;
+}
+
